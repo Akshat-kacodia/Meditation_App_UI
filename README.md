@@ -1,2 +1,3 @@
-# Daily Exercises App - Flutter UI
+# Daily Exercises App - Flutter UI App
+
 
