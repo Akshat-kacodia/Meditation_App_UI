@@ -1,0 +1,2 @@
+C:/Users/Akshat Kacodia/Flutter/shop_app_flutter/android/app/.cxx/Debug/6h2p644m/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Akshat Kacodia/Flutter/shop_app_flutter/android/app/.cxx/Debug/6h2p644m/x86_64/CMakeFiles/rebuild_cache.dir
